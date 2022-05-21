@@ -5,11 +5,17 @@
 Цель: Исследовать методы и инструменты визуализации данных в Pyton-проектах.
 
 Порядок выполнения работы:
+
 1.Изучить возможности и инструменты следующих библиотек:
+
 а) matplotlib (matplotlib.org);
+
 b) seaborn (seaborn.pydata.org);
+
 c) altair-viz (altair-viz.github.io);
+
 d) d3js (d3js.org);
+
 e) bokeh (bokeh.pydata.org).
 
 2.Выбрать из библиотек matplotlib и seaborn от 3 до 5 функций для визуализации.
